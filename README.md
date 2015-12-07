@@ -1,12 +1,7 @@
 # The 2015 Christmas Code Challenge - BravoLT
----
 <img src="http://scienceblogs.com/startswithabang/files/2009/12/Santa-In-Sleigh.jpg" width="200px" align="left">Santa needs your help! His Head Elf was away and seems to have gotten lost on his way back. Planning the shortest routes between cities is among the most important jobs his Head Elf has. If you would be so kind, please, take a look at the specifications below and write some software that finds the shortest routes to the cities Santa needs to visit.
-
-
-
-
+<br><br><br>
 ## Summary
----
 You will need to write some software that takes a file and an abitrary number of city names. Your software will be called via a script `run.sh`. If preparation (compilation or other steps) are necessary, you should prepare a script `prepare.sh`. You can write the application in any language you want. The only caveats are below.
 
 1. Any special instructions should be include in a file `INSTALL.md`. These instructions should include any special tasks or environmental concerns Santa's DevOps team needs to know about to get your application running.
@@ -16,9 +11,7 @@ You will need to write some software that takes a file and an abitrary number of
 
 The details for accomplishing this task are below.
 
-
 ## Details
----
 Below are the details you will need to accomplish your task.
 
 ### Prepare Script
@@ -83,8 +76,6 @@ clifty
 ```
 
 You may visit any city (so long as that city is reachable from the previous one) as many times as you like. You may _not_ stay in the same city. Doing so will disqualify your results.
-
----
 
 ## Development and Testing
 A couple of files are available to make development and testing easier. These files describe the set of cities, connections and distances.

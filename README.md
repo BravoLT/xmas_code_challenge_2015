@@ -1,8 +1,6 @@
 # The 2015 Christmas Code Challenge - BravoLT
 ---
-![Santa and Sleigh][santa]Santa needs your help! His Head Elf was away and seems to have gotten lost on his way back. Planning the shortest routes between cities is among the most important jobs his Head Elf has. If you would be so kind, please, take a look at the specifications below and write some software that finds the shortest routes to the cities Santa needs to visit.
-
-[santa]: http://scienceblogs.com/startswithabang/files/2009/12/Santa-In-Sleigh.jpg
+<img src="http://scienceblogs.com/startswithabang/files/2009/12/Santa-In-Sleigh.jpg" width="200px">Santa needs your help! His Head Elf was away and seems to have gotten lost on his way back. Planning the shortest routes between cities is among the most important jobs his Head Elf has. If you would be so kind, please, take a look at the specifications below and write some software that finds the shortest routes to the cities Santa needs to visit.
 
 ## Summary
 ---

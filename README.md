@@ -100,6 +100,6 @@ A couple of files are available to make development and testing easier. These fi
 In order to win the competition, your application must choose the shortest route for Santa to take in order to make all the stops specified by the input (i.e. the correct answer). The winner will be the application that gets the correct answer (accross multiple inputs) and runs with the shortest time (mean application runtime over the inputs).
 
 ## Question or Problems
-If you should have questions or problems, please, email [Dustin Clifford](mailto://dustin.clifford@bravolt.com "Dustin Clifford") or [Mike Nishizawa](mailto://michael@fortitude-solutions.com "Mike Nishizawa").
+If you should have questions or problems, please, email [Dustin Clifford](mailto:dustin.clifford@bravolt.com "Dustin Clifford") or [Mike Nishizawa](mailto:michael@fortitude-solutions.com "Mike Nishizawa").
 
 Should there be questions or changes necessary to this document, there will be an updates section at the top of this document on the *master* branch.

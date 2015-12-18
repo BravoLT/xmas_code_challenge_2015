@@ -12,7 +12,7 @@ You will need to write some software that takes a file and an abitrary number of
 The details for accomplishing this task are below.
 
 ## Details
-Below are the details you will need to accomplish your task.
+First place will win a Chromecast, and second place will win a Chromecast Audio. Challenge ends December 28, 2015. Below are the details you will need to accomplish your task.
 
 ### Prepare Script
 You will need to create a script `prepare.sh` if your application requires compiling or any other preparation. If this script is not present, we will assume that `run.sh` should complete without any intervention.
